@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Nahid
 #### I am full-stack developer and architect
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
 Skills: Java / Nodejs / Python / Angular / React / Kotlin / Kubernetes 
 
