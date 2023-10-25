@@ -3,8 +3,8 @@
 
 Skills: Java / Nodejs / Python / Angular / React / Kotlin / Kubernetes 
 
-- 🔭 I’m currently working on aws serverless step function and react 
-- 🌱 I’m currently learning kuberntes  
+- 🔭 I’m currently working on Django and Docker Swarm
+- 🌱 I’m currently learning Kubernetes   
 - 📫 How to reach me: mnhmilu@gmail.com 
 
 
